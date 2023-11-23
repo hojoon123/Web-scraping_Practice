@@ -1,0 +1,4 @@
+1. run_GetunSolve.bat 파일을 실행시키시면 됩니다.
+2. 시간이 좀 걸려요.
+3. cmd 창 끄시면 안돼용.
+4. progressbar가 100%에 도달하면 cmd 창에 출력됩니다.
